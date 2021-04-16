@@ -13,7 +13,7 @@ fun check(c : Char){
 }
 
 fun main() {
-    
+
     println('0'.toInt())
 
 }
