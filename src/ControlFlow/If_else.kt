@@ -12,6 +12,16 @@ fun main() {
     else
         max = a
 
+    // val max = if(a > b) a else b
+
+//    val max = if (a > b){
+//        print("a")
+//        a
+//    }else{
+//        print("b")
+//        b
+//    }
+
     println(max)
 
 }
