@@ -1,0 +1,3 @@
+package Class
+
+class Empty
