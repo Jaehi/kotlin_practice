@@ -4,7 +4,7 @@ class Customer(data : Int) {
     init {
         println("Customer data is $data")
     }
-    
+
 
 }
 
